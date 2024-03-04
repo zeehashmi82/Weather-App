@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tX9HCTp1J6EkrGFAfUT/A9BPUFq3AfGHval7U5DtJaRRqqs4xsgJz8tVALf6+sKhkgTq2u6lVS3ZyBFikGiBkA==",
+  "success": true,
+  "projectFilePath": "D:\\CloudAWSProject\\Weatherapp\\WeatherTestApplication123\\WeatherTestApplication123\\WeatherTestApplication123\\WeatherTestApplication123.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeeshan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
+    "C:\\Users\\zeeshan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\zeeshan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\zeeshan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\zeeshan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\zeeshan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\zeeshan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
